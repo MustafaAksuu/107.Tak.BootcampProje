@@ -58,13 +58,14 @@ Sprint 1
 
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg;
-
+![WhatsApp Image 2022-05-24 at 00 08 12](https://user-images.githubusercontent.com/104508186/169906497-bc932a19-93e7-4378-9d01-73d1fea8c8a6.jpeg)
 
 - Sprint board update: Sprint board screenshotları:
 ![scrnli_23-05-2022 08-28-04](https://user-images.githubusercontent.com/104508186/169749833-5a3f22d2-ae90-4583-b54b-4005eacd285a.png)
 
 
 - Ürün Durumu: Ekran görüntüleri: 
+![Ekran Görüntüsü (214)](https://user-images.githubusercontent.com/104508186/169905789-7d0abfed-7b4e-4b2b-b044-70c05ff33aa7.png)
 
 
 - Sprint Review: Alınan kararlar: Planlama açısından bakıldığında Miro story'leri herkes tarafından onay almıştır ve bununla beraber programa uyum sağlanmıştır. Oyun tasarımı alanında, kağıt üzerinde her şey kuruldu fakat bir kaç sorunlar olsada bunların üzerine durulucaktır. Bununla beraber ücretsiz assetler arasında aramalar ve seçimler başladı. UI'lar ufak problemler olsada yapılması tamamlandı.
@@ -95,6 +96,7 @@ Sprint 2
 
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg;
+![WhatsApp Image 2022-05-24 at 00 08 28](https://user-images.githubusercontent.com/104508186/169906482-597e78aa-08d5-4a5b-a74e-9e3ee860bcfe.jpeg)
 
 
 - Sprint board update: Sprint board screenshotları:
@@ -102,7 +104,10 @@ Sprint 2
 
 
 
-- Ürün Durumu: Ekran görüntüleri: 
+- Ürün Durumu: Ekran görüntüleri:
+![Ekran Görüntüsü (215)](https://user-images.githubusercontent.com/104508186/169905831-7e4aa16f-cd67-460c-b283-cacb066bfc7f.png)
+![Ekran Görüntüsü (216)](https://user-images.githubusercontent.com/104508186/169905836-bd7e6a2b-6c26-482b-bc07-16b57e3f188b.png)
+
 
 
 - Sprint Review: Alınan kararlar: Giriş ekranı konusunda fazlasıyla vakit ayrılsada güzel bir hal aldı. Oyun tasarımı dokümanlarından yararlanarak birinci bölüm tasarımı kolayca halledildi. Karakter kontrol sistemleri çok fazla zaman harcadık çünkü en donanımsız olduğumuz konuydu. Engeller ve etkileri tamamlanıp küçük animasyonlar eklendi. 
