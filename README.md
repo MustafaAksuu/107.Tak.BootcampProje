@@ -14,11 +14,11 @@ Takım Elemanları
 
 Ürün İsmi
 ------------------------------------
-Sokoban
+Kosoba
 
 Ürün Açıklaması
 ------------------------------------
-- Sokoban oyunumuz, oynayanlara eğlenceli zaman geçirten ve meydan okuyan bir oyundur. Durmadan koştuğumuz ve engelleri aşmaya çalıştımız bir oyun olan Sokoban platform türündendir. 
+- Kosoban oyunumuz, oynayanlara eğlenceli zaman geçirten ve meydan okuyan bir oyundur. Durmadan koştuğumuz ve engelleri aşmaya çalıştımız bir oyun olan Sokoban platform türündendir. 
 
 Ürün Özellikleri
 ------------------------------------
