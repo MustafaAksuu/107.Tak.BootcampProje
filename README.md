@@ -67,10 +67,12 @@ Sprint 1
 - Ürün Durumu: Ekran görüntüleri: 
 
 
-- Sprint Review: 
+- Sprint Review: Alınan kararlar: Planlama açısından bakıldığında Miro story'leri herkes tarafından onay almıştır ve bununla beraber programa uyum sağlanmıştır. Oyun tasarımı alanında, kağıt üzerinde her şey kuruldu fakat bir kaç sorunlar olsada bunların üzerine durulucaktır. Bununla beraber ücretsiz assetler arasında aramalar ve seçimler başladı. UI'lar ufak problemler olsada yapılması tamamlandı.
 
 
-- Sprint Retrospective: 
+- Sprint Retrospective:
+- Tasarım Problemleri geliştirme aşamasında çözülecektir.
+- UI iyileştirmeleri üstünde vakit harcanıp daha iyi hale getirilecektir.
 
 
 - -Diğer Notlar: N/A
@@ -103,10 +105,12 @@ Sprint 2
 - Ürün Durumu: Ekran görüntüleri: 
 
 
-- Sprint Review: 
+- Sprint Review: Alınan kararlar: Giriş ekranı konusunda fazlasıyla vakit ayrılsada güzel bir hal aldı. Oyun tasarımı dokümanlarından yararlanarak birinci bölüm tasarımı kolayca halledildi. Karakter kontrol sistemleri çok fazla zaman harcadık çünkü en donanımsız olduğumuz konuydu. Engeller ve etkileri tamamlanıp küçük animasyonlar eklendi. 
 
 
 - Sprint Retrospective: 
+- Karakter kontrol sistemleri üzerine daha fazla durulucak ve kendimizi geliştireceğiz.
+- Unity ile animasyon yapma konusunda çalışmaları sürdürmeliyiz.
 
 
 - -Diğer Notlar: N/A
