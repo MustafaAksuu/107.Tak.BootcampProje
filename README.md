@@ -96,6 +96,8 @@ Sprint 2
 
 
 - Sprint board update: Sprint board screenshotları:
+![scrnli_23-05-2022 08-28-06](https://user-images.githubusercontent.com/104508186/169749924-db607162-e796-4828-af78-b342f6c88724.png)
+
 
 
 - Ürün Durumu: Ekran görüntüleri: 
