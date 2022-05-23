@@ -51,7 +51,7 @@ Sprint 1
 - Sprint içinde tamamlanması tahmin edilen puan: 120+10 Puan
 
 
-- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog (Her backlog story'si eşit puana sahiptir 12*30=360 + Github(10*3=30 Puan)) bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120+10 puan ile başlaması gerektiğine karar verildi. 
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog (Her backlog story'si eşit puana sahiptir 12x30=360 + Github(10x3=30 Puan)) bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120+10 puan ile başlaması gerektiğine karar verildi. 
 
 
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Her backlog storysi eşit puana sahiptir 12*30=360) Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
@@ -88,7 +88,7 @@ Sprint 2
 - Sprint içinde tamamlanması tahmin edilen puan: 120+10 Puan
 
 
-- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 370 puanlık backlog (Her backlog Story'si eşit puana sahiptir 12*30=360 + Github(10*3=30 Puan)) bulunmaktadır.          3 sprint'e bölündüğünde ilk sprint'in en azından 120+10 puanın üzerine, ikinci sprint'in de en azından 120 puanlık story tamamlanmasına karar verilmiştir.
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 370 puanlık backlog (Her backlog Story'si eşit puana sahiptir 12x30=360 + Github(10x3=30 Puan)) bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120+10 puanın üzerine, ikinci sprint'in de en azından 120+10 puanlık story tamamlanmasına karar verilmiştir.
 
 
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Her backlog storysi eşit puana sahiptir 12*30=360) Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
