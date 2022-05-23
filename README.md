@@ -45,10 +45,10 @@ https://miro.com/app/board/uXjVOypZZv0=/?share_link_id=234807001237
 
 Sprint 1
 ----------------------------------------
-- Sprint Notları:
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 
-- Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+- Sprint içinde tamamlanması tahmin edilen puan: 120+10 Puan
 
 
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog (Her backlog story'si eşit puana sahiptir 12*30=360 + Github(10*3=30 Puan)) bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120+10 puan ile başlaması gerektiğine karar verildi. 
@@ -80,10 +80,10 @@ Sprint 1
 
 Sprint 2
 ----------------------------------------
-- Sprint Notları:
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 
-- Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+- Sprint içinde tamamlanması tahmin edilen puan: 120+10 Puan
 
 
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 370 puanlık backlog (Her backlog Story'si eşit puana sahiptir 12*30=360 + Github(10*3=30 Puan)) bulunmaktadır.          3 sprint'e bölündüğünde ilk sprint'in en azından 120+10 puanın üzerine, ikinci sprint'in de en azından 120 puanlık story tamamlanmasına karar verilmiştir.
