@@ -71,8 +71,8 @@ Sprint 1
 
 
 - Sprint Retrospective:
-- Tasarım Problemleri geliştirme aşamasında çözülecektir.
-- UI iyileştirmeleri üstünde vakit harcanıp daha iyi hale getirilecektir.
+    - Tasarım Problemleri geliştirme aşamasında çözülecektir.
+    - UI iyileştirmeleri üstünde vakit harcanıp daha iyi hale getirilecektir.
 
 
 - -Diğer Notlar: N/A
@@ -109,8 +109,8 @@ Sprint 2
 
 
 - Sprint Retrospective: 
-- Karakter kontrol sistemleri üzerine daha fazla durulucak ve kendimizi geliştireceğiz.
-- Unity ile animasyon yapma konusunda çalışmaları sürdürmeliyiz.
+    - Karakter kontrol sistemleri üzerine daha fazla durulucak ve kendimizi geliştireceğiz.
+    - Unity ile animasyon yapma konusunda çalışmaları sürdürmeliyiz.
 
 
 - -Diğer Notlar: N/A
