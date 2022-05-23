@@ -18,7 +18,7 @@ Kosoba
 
 Ürün Açıklaması
 ------------------------------------
-- Kosoban oyunumuz, oynayanlara eğlenceli zaman geçirten ve meydan okuyan bir oyundur. Durmadan koştuğumuz ve engelleri aşmaya çalıştımız bir oyun olan Sokoban platform türündendir. 
+- Kosoban oyunumuz, oynayanlara eğlenceli zaman geçirten ve meydan okuyan bir oyundur. Durmadan koştuğumuz ve engelleri aşmaya çalıştımız bir oyun olan Kosoban platform türündendir. 
 
 Ürün Özellikleri
 ------------------------------------
