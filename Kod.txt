@@ -1,5 +1,5 @@
 CharacterController
---------------------------------
+--------------------------------------------------------------------------------------
 
 using System.Collections;
 using System.Collections.Generic;
@@ -69,8 +69,16 @@ public class CharacterController : MonoBehaviour
     }
 }
 
+
+
+
+
+
+
+
+
 Engel
-------------------------------------------------
+--------------------------------------------------------------------------------------
 
 using System.Collections;
 using System.Collections.Generic;
@@ -93,8 +101,12 @@ public class Engel : MonoBehaviour
 
 
 
+
+
+
+
 Coin
------------------------------------------------
+---------------------------------------------------------------------------------------
 
 using System.Collections;
 using System.Collections.Generic;
@@ -120,8 +132,13 @@ public class Coin : MonoBehaviour
 
 
 
+
+
+
+
+
 NextLevel
------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 
 using System.Collections;
