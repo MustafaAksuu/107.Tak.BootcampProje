@@ -1,5 +1,5 @@
 CharacterController
---------------------------------------------------------------------------------------
+-------------------------------------------------
 
 using System.Collections;
 using System.Collections.Generic;
@@ -72,13 +72,8 @@ public class CharacterController : MonoBehaviour
 
 
 
-
-
-
-
-
 Engel
---------------------------------------------------------------------------------------
+-------------------------------------------------------
 
 using System.Collections;
 using System.Collections.Generic;
@@ -99,14 +94,8 @@ public class Engel : MonoBehaviour
 
 
 
-
-
-
-
-
-
 Coin
----------------------------------------------------------------------------------------
+------------------------------------------------------------
 
 using System.Collections;
 using System.Collections.Generic;
@@ -132,13 +121,8 @@ public class Coin : MonoBehaviour
 
 
 
-
-
-
-
-
 NextLevel
------------------------------------------------------------------------------------------------
+------------------------------------------------------------
 
 
 using System.Collections;
@@ -162,6 +146,3 @@ public class NextLevel : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
 }
-
-
-
