@@ -56,10 +56,6 @@ Sprint 1
 
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Her backlog storysi eşit puana sahiptir 12*30=360+ Github(10x3=30 Puan)) Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg;
-![WhatsApp Image 2022-05-24 at 00 08 12](https://user-images.githubusercontent.com/104508186/169906497-bc932a19-93e7-4378-9d01-73d1fea8c8a6.jpeg)
-
 - Sprint board update: Sprint board screenshotları:
 ![scrnli_30-05-2022 02-16-09](https://user-images.githubusercontent.com/104508186/170895195-bf31ea6f-ce15-4b61-9273-9fced8c62950.png)
 
@@ -97,10 +93,6 @@ Sprint 2
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Her backlog storysi eşit puana sahiptir 12*30=360+ Github(10x3=30 Puan)) Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg;
-![WhatsApp Image 2022-05-24 at 00 08 28](https://user-images.githubusercontent.com/104508186/169906482-597e78aa-08d5-4a5b-a74e-9e3ee860bcfe.jpeg)
-
-
 - Sprint board update: Sprint board screenshotları:
 ![scrnli_30-05-2022 02-17-04](https://user-images.githubusercontent.com/104508186/170895211-4dba281a-0d4e-4817-a18e-56fab89b5347.png)
 
@@ -134,11 +126,6 @@ Sprint 3
 
 
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Her backlog storysi eşit puana sahiptir 12*30=360+ Github(10x3=30 Puan)) Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg;
-![WhatsApp Image 2022-05-30 at 02 25 13](https://user-images.githubusercontent.com/104508186/170895420-20bef12f-3280-4e1e-b3b8-2cf32eac7f0b.jpeg)
-
 
 - Sprint board update: Sprint board screenshotları:
 ![scrnli_30-05-2022 02-17-18](https://user-images.githubusercontent.com/104508186/170895225-7b15d99e-eef8-4f81-8ff6-7f38b2bdfd2b.png)
