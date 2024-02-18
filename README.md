@@ -6,9 +6,8 @@ Takım İsmi
 ----------------------------------
 Takım Elemanları
 ----------------------------------
--Mustafa Aksu:Scrum Master
+-Mustafa Aksu
 
--Tuğçe Keser:Developer
 
 
 
